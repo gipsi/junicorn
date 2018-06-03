@@ -1,3 +1,3 @@
 # Junicorn
-### Flexible, responsive, adaptable
+### Flexible, responsive, adaptive
 ## Styles with _CSS Grid_
