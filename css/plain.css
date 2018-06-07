@@ -2,7 +2,7 @@ html {
   font-family: 'Gruppo', cursive, lato, sans-serif;
   font-size: 12px;
   background: #6699cc;
-  background: linear-gradient(to bottom #cb60b3+0 0%,#ed9017 100%);  }
+  background: linear-gradient(to bottom #cb60b3 0%,#ed9017 100%);  }
   
 body {
   display: flex;
