@@ -84,7 +84,9 @@ background: linear-gradient(to bottom, #7abcff 0%,#60abf8 44%,#4096ee 100%); /* 
   li:nth-child(10),
   li:nth-child(14),
   li:nth-child(16),
-  li:nth-child(32){
+  li:nth-child(21),
+  li:nth-child(26),
+  li:nth-child(30){
   background: #cb60b3+0;
 }
   li:nth-child(3) {
